@@ -1,5 +1,5 @@
 [![Moleculer](https://badgen.net/badge/Powered%20by/Moleculer/0e83cd)](https://moleculer.services)
-
+[![CircleCI](https://circleci.com/gh/agiron123/moleculer-testing.svg?style=svg)](https://circleci.com/gh/agiron123/moleculer-testing)
 # moleculer-testing
 
 ## NPM scripts
